@@ -1,2 +1,0 @@
-# dparkar.github.io
-Blog
